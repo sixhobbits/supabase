@@ -30,3 +30,5 @@ At the moment we only support PostgreSQL. It's unlikely we'll ever move away fro
 
 We currently have a JavaScript library. You can [vote on a new client library](https://github.com/supabase/supabase/issues/5) for your favorite language.
 
+test
+
